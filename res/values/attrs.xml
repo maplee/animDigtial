@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+     <declare-styleable name="animView">
+        <attr name="tSize" format="dimension" />
+        <attr name="textColor" format="color" />
+        <attr name="top" format="dimension" />
+        <attr name="bottom" format="dimension" />
+    </declare-styleable>
+    
+     
+
+</resources>
